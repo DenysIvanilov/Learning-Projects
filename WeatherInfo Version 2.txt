@@ -1,0 +1,15 @@
+My attempts of making the program better:
+I discovered that you can actually retrieve the weather of the city without coordinates and just by the name,
+so it made the code a little cleaner i would say.
+
+Another improvements:
+
+Option of picking the unit of measurement(if not picked,it will use Kelvin as default unit)
+
+Errors handling: If you dont pass the name of the city - you will be warned about it. Also the program checks if such city exists,otherwise it will warn the user.
+
+Now the program tells you the weather,temp AND the speed of the wind
+
+Program is now continuous: upon receiving the weather info of the city,you will be asked if you want to continue.You can choose to look at another city or close the program
+
+
