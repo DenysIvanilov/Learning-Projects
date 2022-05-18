@@ -1,0 +1,4 @@
+My first project using API ( openweather )
+Upon entering city name and country code(optional) program retrieves coordinates of the city
+Then coordinates are passed into another URL which retrieves weather data of the city
+Finally it prints the type of the weather and temperature(in metric only)
